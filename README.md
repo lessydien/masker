@@ -1,4 +1,4 @@
-## Covid-19 Mask Controll
+## Covid-19 Mask Control
 
 
 
